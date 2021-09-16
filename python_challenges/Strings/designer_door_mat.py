@@ -33,4 +33,3 @@ if __name__ == "__main__":
     width = (int(inputs[1]) - 7) // 2
 
     print(top_bottom(height, False) + middle(width) + top_bottom(height, True))
-
