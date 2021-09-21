@@ -1,0 +1,2 @@
+-- MS SQL Server Solution --
+SELECT NAME FROM EMPLOYEE ORDER BY NAME;
