@@ -1,0 +1,2 @@
+-- MS SQL Server Solution --
+SELECT AVG(POPULATION) FROM CITY WHERE DISTRICT = 'California'

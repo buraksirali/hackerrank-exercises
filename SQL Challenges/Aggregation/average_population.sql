@@ -1,0 +1,2 @@
+-- MS SQL Server Solution --
+SELECT ROUND(AVG(POPULATION), 0) FROM CITY
